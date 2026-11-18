@@ -1,0 +1,6 @@
+{
+  "name": "NEON RUSH – Ultimate Adventure",
+  "description": "A fast-paced 2D endless runner with 3D-style neon city visuals, power-ups, unlockable characters, daily rewards, and mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
